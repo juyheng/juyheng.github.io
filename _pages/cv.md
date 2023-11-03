@@ -11,4 +11,4 @@ redirect_from:
 
 
 
-For my full CV, feel free to download <a href="/files/Uyheng_CV_Website.pdf" target = "_blank">here</a>.
+For my full CV, feel free to download ["/files/Uyheng_CV_Website.pdf"](here).
