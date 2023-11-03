@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About Me"
+excerpt: "Personal Academic Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! I am a Ph.D. candidate in Societal Computing at Carnegie Mellon University, where I am advised by Dr. Kathleen M. Carley at the <a href = "https://www.cmu.edu/casos-center" target = "_blank">[Center for Computational Analysis of Social and Organizational Systems (CASOS)</a> and am a Knight Fellow with the <a href = "https://www.cmu.edu/ideas-social-cybersecurity/index.html" target = "_blank">Center for Informed Democracy and Social Cybersecurity (IDeaS) </a>.
+Hello! I am a Ph.D. candidate in Societal Computing at Carnegie Mellon University, where I am advised by Dr. Kathleen M. Carley at the <a href = "https://www.cmu.edu/casos-center" target = "_blank">Center for Computational Analysis of Social and Organizational Systems (CASOS)</a> and am a Knight Fellow with the <a href = "https://www.cmu.edu/ideas-social-cybersecurity/index.html" target = "_blank">Center for Informed Democracy and Social Cybersecurity (IDeaS) </a>.
 
 My research integrates social, cognitive, and political psychology with network science and machine learning to examine the narrative and network dynamics of online conflicts. I am also interested in critical and mixed methods approaches to computational social science more broadly. My work has been published in journals including Political Psychology, Journal of Social Issues, and Applied Network Science; and at conferences such as ICWSM, ASONAM, and WebSci. For my research, I've also received awards from the Asian Association of Social Psychology, the Psychological Association of the Philippines, and the Philippine Department of Science and Technology. I was also named ICWSM Best Reviewer for the last three consecutive years.
 
