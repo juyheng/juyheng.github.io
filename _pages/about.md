@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Academic Website"
+title: "About Me"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi
+Hello! I am a Ph.D. candidate in Societal Computing at Carnegie Mellon University, where I am advised by Dr. Kathleen M. Carley at the Center for Computational Analysis of Social and Organizational Systems (CASOS) and am a Knight Fellow with the Center for Informed Democracy and Social Cybersecurity (IDeaS).
+
+My research integrates social, cognitive, and political psychology with network science and machine learning to understand the large-scale dynamics of online conflicts. In particular, I examine how identities and communities shape the spread of hate and disinformation, especially in the Asia-Pacific and the Global South. I am also interested in critical and decolonial approaches to computational social science. My work has been published in journals including Political Psychology, Journal of Social Issues, and Applied Network Science; and at conferences such as ICWSM, ASONAM, and WebSci.
+
+Born and raised in the Philippines, I hold degrees in mathematics and psychology from the Ateneo de Manila University. I've also done research at Heidelberg University, the Nara Institute of Science and Technology, and as a project scientist and policy analyst for civil society and national government.
 
 A data-driven personal website
 ======
