@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Joshua Uyheng"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Joshua Uyheng"
+description              : &description "Computational social scientist"
 url                      : https://juyheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "juyheng/juyheng.github.io"
@@ -83,8 +83,8 @@ author:
   name             : "Joshua Uyheng"
   avatar           : "profile.jpg"
   bio              : "Computational social scientist"
-  location         : "Pittsburgh PA"
   employer         : "Carnegie Mellon University"
+  location         : "Pittsburgh PA"
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "juyheng@cs.cmu.edu"
