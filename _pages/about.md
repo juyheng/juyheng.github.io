@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Joshua Uyheng's Personal Academic Website"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
