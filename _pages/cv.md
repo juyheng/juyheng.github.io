@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Psychology and Mathematics, <i>summa cum laude</i>, Ateneo de Manila University, 2016, 2017
+* M.S. in Societal Computing, Carnegie Mellon University, 2020
+* Ph.D. in Societal Computing, Carnegie Mellon University, 2024 (expected)
 
 Work experience
 ======
