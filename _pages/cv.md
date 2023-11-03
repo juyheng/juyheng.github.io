@@ -12,4 +12,3 @@ redirect_from:
 
 
 For my full CV, feel free to download [here](https://juyheng.github.io/files/Uyheng_CV_Website.pdf).
-For my full CV, feel free to download <a href = "https://juyheng.github.io/files/Uyheng_CV_Website.pdf" target = "_blank">here</a>.
