@@ -18,5 +18,5 @@ Using
 ## Global Information Operations
 Using
 
-## Online and Offline Interactions
+## Online and Offline Interrelationships
 Using
