@@ -24,3 +24,6 @@ redirect_from:
   * Montiel, C. J., Dela Paz, E., Uyheng, J., & Bulilan, E. J. (2023). Narrative incongruence in pandemic local governance: Mayors perform responsibility as communities demand responsiveness. <i>Journal of Community and Applied Social Psychology</i>. Advance online publication. 
   * Phillips, S. C., Uyheng, J., & Carley, K. M. (2023). A high-dimensional approach to measuring online polarization. <i>Journal of Computational Social Science</i>.
   * Phillips, S. C., Uyheng, J., Jacobs, S. C., & Carley, K. M. (2023). Chirping democracy: Analyzing Chinese state social-cyber maneuvers on Twitter. <i>Proc. SBP-BRIMS</i>.
+* 2022
+  * Uyheng, J., Bellutta, D., & Carley, K. M. (2022). Bots amplify and redirect hate speech in online discourse about racism during the COVID-19 pandemic. <i>Social Media + Society</i>, 8(3), 1-14.
+  *
