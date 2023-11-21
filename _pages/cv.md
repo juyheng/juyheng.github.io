@@ -11,4 +11,4 @@ redirect_from:
 
 
 
-For my full CV, feel free to download here.
+For my full CV, feel free to download [here](https://juyheng.github.io/files/Uyheng_CV_Website.pdf).

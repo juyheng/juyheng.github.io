@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joshua Uyheng"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Joshua Uyheng"
 description              : &description "Computational social scientist"
