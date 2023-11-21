@@ -13,5 +13,6 @@ redirect_from:
   * Hi hello
 
 ## Complete Publications
-* Hello hi
-  * Hi hello
+* 2023
+  * Uyheng, J., Robertson, D. F., & Carley, K. M. (2023). Online and offline dynamics of the face mask infodemic. <i>BMC Digital Health</i>. Advance online publication.
+  * Uyheng, J. 
