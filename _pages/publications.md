@@ -8,11 +8,6 @@ redirect_from:
   - /papers
 ---
 
-<<<<<<< HEAD
-Hi
-=======
-{% include base_path %}
-
 ## Featured Papers
 * Hello hi
   * Hi hello
@@ -20,4 +15,3 @@ Hi
 ## Complete Publications
 * Hello hi
   * Hi hello
->>>>>>> 37695b666520b76590fd8b4efc078dbcae4ada66
