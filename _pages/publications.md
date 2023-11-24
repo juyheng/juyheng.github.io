@@ -8,9 +8,9 @@ redirect_from:
   - /papers
 ---
 
-## Featured Papers
+<!-- ## Featured Papers
 * Hello hi
-  * Hi hello
+  * Hi hello -->
 
 ## Complete Publications
 * in press
