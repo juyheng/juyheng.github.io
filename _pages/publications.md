@@ -12,7 +12,7 @@ redirect_from:
 * Hello hi
   * Hi hello -->
 
-## Complete Publications
+<!-- ## Complete Publications -->
 * in press
   * Uyheng, J. & Carley, K. M. (in press). Online hate in the Philippines: The role of narratives and networks. <i>International Review of Law, Computers & Technology</i>.
   * Uyheng, J., & Montiel, C. J. (in press). Digital interfaces of repression and resistance. In J. Vollhardt & F. Bou Zeineddine (Eds.), <i>Resistance to repression and violence: Global psychological perspectives</i>. Oxford University Press.
