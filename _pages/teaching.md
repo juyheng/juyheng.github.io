@@ -7,7 +7,7 @@ redirect_from:
   - /courses
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 ## CASOS Summer Institute
 For the last five summers (2019-2023), I have taught at the <a href = "https://www.cmu.edu/casos-center/events/summer-institute.html" target = "_blank">CASOS Summer Institute</a>. The CASOS SI is an annual summer school on computational social science and network science techniques that caters to graduate students, junior faculty, and professionals from industry and the government. I have specifically handled sessions on text analytics, applied machine learning, and online harms.
