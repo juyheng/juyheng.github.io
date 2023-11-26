@@ -11,14 +11,21 @@ redirect_from:
 
 ## Center for Computational Analysis of Social and Organizational Systems (CASOS)
 
+## Center for Informed Democracy and Social Cybersecurity (IDeaS)
+
 ## Political Psychology of Democratization, Ateneo de Manila University
 
-## Society for the Study of Peace, Conflict and Violence (Division 48), American Psychological Association
+## Division 48, American Psychological Association
+Society for the Study of Peace, Conflict and Violence
+
+## Editorial Board, Journal of Social and Political Psychology
 
 ## Previous Affiliations
 * Martial Law Museum
 
 * Action for Economic Reforms
+
+* Big Data & Society
 
 * Statistical Natural Language Processing Group (StatNLP), Heidelberg University
 
