@@ -15,9 +15,9 @@ redirect_from:
 <!-- ## Complete Publications -->
 * in press
   * <b>Uyheng, J.</b> & Carley, K. M. (in press). Online hate in the Philippines: The role of narratives and networks. <i>International Review of Law, Computers & Technology</i>.
-  * <b>Uyheng, J.</b>, & Montiel, C. J. (in press). Digital interfaces of repression and resistance. In J. Vollhardt & F. Bou Zeineddine (Eds.), <i>Resistance to repression and violence: Global psychological perspectives</i>. Oxford University Press.
+  <!-- * <b>Uyheng, J.</b>, & Montiel, C. J. (in press). Digital interfaces of repression and resistance. In J. Vollhardt & F. Bou Zeineddine (Eds.), <i>Resistance to repression and violence: Global psychological perspectives</i>. Oxford University Press. -->
   * Jacobs, C. S., <b>Uyheng, J.</b>, & Carley, K. M. (in press). How China uses social media in Grey Zone operations toward Taiwan. <i>Journal of Information Warfare</i>.
-  * Montiel, C. J., Delos Santos, J. J. I., & <b>Uyheng, J.</b> (in press). Gendering democratic resistance to authoritarianism: Leni Robredo's presidential campaign. In J. Vollhardt & F. Bou Zeineddine (Eds.), <i>Resistance to repression and violence: Global psychological perspectives</i>. Oxford University Press. 
+  <!-- * Montiel, C. J., Delos Santos, J. J. I., & <b>Uyheng, J.</b> (in press). Gendering democratic resistance to authoritarianism: Leni Robredo's presidential campaign. In J. Vollhardt & F. Bou Zeineddine (Eds.), <i>Resistance to repression and violence: Global psychological perspectives</i>. Oxford University Press.  -->
 
 * 2023
   * <b>Uyheng, J.</b>, Robertson, D. F., & Carley, K. M. (2023). Online and offline dynamics of the face mask infodemic. <i>BMC Digital Health</i>. Advance online publication.
