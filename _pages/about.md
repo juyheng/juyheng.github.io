@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an Assistant Professor at the Department of Psychology at the Ateneo de Manila University. I earned my Ph.D. in Societal Computing at Carnegie Mellon University, where I studied online hate in relation to its large-scale narrative and network dynamics. Currently, I am co-director of the Political Psychology of Democratization Laboratory, where my research tackles questions of political conflict and collective hope in contexts of social and technological change. More broadly, I am also interested in critical, interdisciplinary, and mixed methods approaches to computational social science, especially in relation to the Global South.
+Hello! I am an Assistant Professor at the Department of Psychology at the Ateneo de Manila University. I earned my Ph.D. in Societal Computing at Carnegie Mellon University, where I studied online hate in relation to its large-scale narrative and network dynamics. Currently, I am co-director of the Political Psychology of Democratization Laboratory, where my research examines how people make sense of political conflict and collective hope in contexts of social and technological change. More broadly, I am also interested in critical, interdisciplinary, and mixed methods approaches to computational social science, especially in relation to the Global South.
 
 For my research, I've received awards from SBP-BRIMS, the Asian Association of Social Psychology, the Psychological Association of the Philippines, and the Philippine Department of Science and Technology. I've also been named ICWSM Best Reviewer for three consecutive years, and I currently serve on the Editorial Board of *PLoS One* and the *Journal of Social and Political Psychology*.
 
